@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="LQHHCS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LQHHCS.war">
+      <element id="artifact" artifact-name="LQHHCS:war exploded" />
+    </root>
+  </artifact>
+</component>
